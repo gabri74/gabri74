@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Amr Elgabri
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=30&center=true&vCenter=true&width=900&lines=Soil+Mechanics;Rock+Mechanics;Ground+Investigation;Lab+and+Material+Testing;Geotechnical+Calculations;Road+Construction;Python;Java;Always+Learning..." />
